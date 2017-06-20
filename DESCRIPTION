@@ -1,0 +1,16 @@
+Package: osmdatatest
+Title: Test Loading 'osmdata' in a Package
+Version: 0.2.4
+Authors@R: person("Mark", "Padgham", email = "mark.padgham@email.com", role = c("aut", "cre"))
+Description: Test loading osmdata in a package.
+Depends:
+    R (>= 3.2.3)
+Imports:
+    osmdata
+Suggests:
+    testthat
+License: GPL-3
+URL: https://github.com/mpadge/osmdatatest
+BugReports: https://github.com/mpadge/osmdatatest/issues
+LazyData: true
+RoxygenNote: 6.0.1
