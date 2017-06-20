@@ -7,6 +7,8 @@ Depends:
     R (>= 3.2.3)
 Imports:
     osmdata
+Remotes:
+    osmdata
 Suggests:
     testthat
 License: GPL-3
