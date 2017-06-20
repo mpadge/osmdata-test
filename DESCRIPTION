@@ -8,7 +8,7 @@ Depends:
 Imports:
     osmdata
 Remotes:
-    osmdata
+    ropensci/osmdata
 Suggests:
     testthat
 License: GPL-3
