@@ -1,7 +1,6 @@
 language: r
 warnings_are_errors: true
 sudo: false
-group: edge # https://blog.travis-ci.com/2017-06-19-trusty-updates-2017-Q2
 
 addons:
     apt:
