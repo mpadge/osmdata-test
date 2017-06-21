@@ -23,8 +23,8 @@ matrix:
           os: osx
         - r: oldrel
           os: osx
-        - r: devel
-          os: osx
+          #- r: devel
+          #os: osx
 
 notifications:
   email:
